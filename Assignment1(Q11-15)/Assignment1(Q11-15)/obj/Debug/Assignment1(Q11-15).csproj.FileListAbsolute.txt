@@ -1,0 +1,7 @@
+C:\Users\akskumar\source\repos\Assignment1(Q11-15)\Assignment1(Q11-15)\bin\Debug\Assignment1(Q11-15).exe.config
+C:\Users\akskumar\source\repos\Assignment1(Q11-15)\Assignment1(Q11-15)\bin\Debug\Assignment1(Q11-15).exe
+C:\Users\akskumar\source\repos\Assignment1(Q11-15)\Assignment1(Q11-15)\bin\Debug\Assignment1(Q11-15).pdb
+C:\Users\akskumar\source\repos\Assignment1(Q11-15)\Assignment1(Q11-15)\obj\Debug\Assignment1(Q11-15).csproj.AssemblyReference.cache
+C:\Users\akskumar\source\repos\Assignment1(Q11-15)\Assignment1(Q11-15)\obj\Debug\Assignment1(Q11-15).csproj.CoreCompileInputs.cache
+C:\Users\akskumar\source\repos\Assignment1(Q11-15)\Assignment1(Q11-15)\obj\Debug\Assignment1(Q11-15).exe
+C:\Users\akskumar\source\repos\Assignment1(Q11-15)\Assignment1(Q11-15)\obj\Debug\Assignment1(Q11-15).pdb
